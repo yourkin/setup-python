@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 yourkin/setup-python is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [Python](https://www.python.org) – Languages
@@ -17,11 +18,13 @@ yourkin/setup-python is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 yourkin/setup-python is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
@@ -37,14 +40,15 @@ yourkin/setup-python is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [yourkin/setup-python](https://github.com/yourkin/setup-python)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|42<br/>Tools used|11/09/23 <br/>Report generated|
+|44<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -231,28 +235,29 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (22)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (24)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (13)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (14)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[Kivy](https://pypi.org/Kivy)|N/A|11/17/21|Dmitry Shibanov |MIT|N/A|
-|[Pygments](https://pypi.org/Pygments)|v2.6.1|11/17/21|Dmitry Shibanov |BSD-3-Clause|[CVE-2021-27291](https://github.com/advisories/GHSA-pq64-v7f5-gqh8) (High)<br/>[CVE-2021-20270](https://github.com/advisories/GHSA-9w8r-397f-prfh) (High)<br/>[CVE-2022-40896](https://github.com/advisories/GHSA-mrwq-x4v8-fh7p) (Moderate)|
-|[certifi](https://pypi.org/certifi)|v2020.6.20|11/17/21|Dmitry Shibanov |MPL-2.0|[CVE-2023-37920](https://github.com/advisories/GHSA-xqr8-7jwr-rhp7) (High)<br/>[CVE-2022-23491](https://github.com/advisories/GHSA-43fp-rhv2-5gv8) (Moderate)|
-|[chardet](https://pypi.org/chardet)|v3.0.4|11/17/21|Dmitry Shibanov |LGPL-2.1|N/A|
-|[future](https://pypi.org/future)|v0.18.2|11/17/21|Dmitry Shibanov |MIT|[CVE-2022-40899](https://github.com/advisories/GHSA-v3c5-jqr6-7qm8) (High)|
-|[idna](https://pypi.org/idna)|v2.9|11/17/21|Dmitry Shibanov |BSD-3-Clause|N/A|
-|[itsdangerous](https://pypi.org/itsdangerous)|v1.1.0|11/17/21|Dmitry Shibanov |BSD-3-Clause|N/A|
-|[packaging](https://pypi.org/packaging)|v21.0|11/17/21|Dmitry Shibanov |BSD-3-Clause,Apache-2.0|N/A|
-|[pefile](https://pypi.org/pefile)|v2021.9.3|11/17/21|Dmitry Shibanov |MIT|N/A|
-|[pyparsing](https://pypi.org/pyparsing)|v2.4.7|11/17/21|Dmitry Shibanov |MIT|N/A|
-|[requests](https://pypi.org/requests)|v2.24.0|11/17/21|Dmitry Shibanov |Apache-2.0|[CVE-2023-32681](https://github.com/advisories/GHSA-j8r2-6x86-q33q) (Moderate)|
-|[urllib3](https://pypi.org/urllib3)|v1.25.9|11/17/21|Dmitry Shibanov |MIT|[CVE-2021-33503](https://github.com/advisories/GHSA-q2q7-5pp4-w6pg) (High)<br/>[CVE-2023-45803](https://github.com/advisories/GHSA-g4mx-q9vg-27p4) (Moderate)<br/>[CVE-2023-43804](https://github.com/advisories/GHSA-v845-jxx5-vc9f) (Moderate)|
-|[xlrd](https://pypi.org/xlrd)|v1.2.0|11/17/21|Dmitry Shibanov |BSD-3-Clause|N/A|
+|[Kivy](https://pypi.org/project/Kivy)|N/A|11/17/21|Dmitry Shibanov |MIT|N/A|
+|[Pygments](https://pypi.org/project/Pygments)|v2.6.1|11/17/21|Dmitry Shibanov |BSD-3-Clause|[CVE-2021-27291](https://github.com/advisories/GHSA-pq64-v7f5-gqh8) (High)<br/>[CVE-2021-20270](https://github.com/advisories/GHSA-9w8r-397f-prfh) (High)<br/>[CVE-2022-40896](https://github.com/advisories/GHSA-mrwq-x4v8-fh7p) (Moderate)|
+|[certifi](https://pypi.org/project/certifi)|v2020.6.20|11/17/21|Dmitry Shibanov |MPL-2.0|[CVE-2023-37920](https://github.com/advisories/GHSA-xqr8-7jwr-rhp7) (High)<br/>[CVE-2022-23491](https://github.com/advisories/GHSA-43fp-rhv2-5gv8) (Moderate)|
+|[chardet](https://pypi.org/project/chardet)|v3.0.4|11/17/21|Dmitry Shibanov |LGPL-2.1|N/A|
+|[docutils](https://pypi.org/project/docutils)|v0.16|11/17/21|Dmitry Shibanov |Unlicense,Python-2.0,BSD-2-Clause,CNRI-Python-GPL-Compatible|N/A|
+|[future](https://pypi.org/project/future)|v0.18.2|11/17/21|Dmitry Shibanov |MIT|[CVE-2022-40899](https://github.com/advisories/GHSA-v3c5-jqr6-7qm8) (High)|
+|[idna](https://pypi.org/project/idna)|v2.9|11/17/21|Dmitry Shibanov |BSD-3-Clause|N/A|
+|[itsdangerous](https://pypi.org/project/itsdangerous)|v1.1.0|11/17/21|Dmitry Shibanov |BSD-3-Clause|N/A|
+|[packaging](https://pypi.org/project/packaging)|v21.0|11/17/21|Dmitry Shibanov |BSD-3-Clause,Apache-2.0|N/A|
+|[pefile](https://pypi.org/project/pefile)|v2021.9.3|11/17/21|Dmitry Shibanov |MIT|N/A|
+|[pyparsing](https://pypi.org/project/pyparsing)|v2.4.7|11/17/21|Dmitry Shibanov |MIT|N/A|
+|[requests](https://pypi.org/project/requests)|v2.24.0|11/17/21|Dmitry Shibanov |Apache-2.0|[CVE-2023-32681](https://github.com/advisories/GHSA-j8r2-6x86-q33q) (Moderate)|
+|[urllib3](https://pypi.org/project/urllib3)|v1.25.9|11/17/21|Dmitry Shibanov |MIT|[CVE-2021-33503](https://github.com/advisories/GHSA-q2q7-5pp4-w6pg) (High)<br/>[CVE-2023-45803](https://github.com/advisories/GHSA-g4mx-q9vg-27p4) (Moderate)<br/>[CVE-2023-43804](https://github.com/advisories/GHSA-v845-jxx5-vc9f) (Moderate)|
+|[xlrd](https://pypi.org/project/xlrd)|v1.2.0|11/17/21|Dmitry Shibanov |BSD-3-Clause|N/A|
 
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (9)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (10)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -264,9 +269,10 @@ Full tech stack [here](/techstack.md)
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.6.0|05/22/23|Nikolai Laevskii |MIT|N/A|
 |[eslint-plugin-jest](https://www.npmjs.com/eslint-plugin-jest)|v27.2.1|05/22/23|Nikolai Laevskii |MIT|N/A|
 |[eslint-plugin-node](https://www.npmjs.com/eslint-plugin-node)|v11.1.0|05/22/23|Nikolai Laevskii |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v7.0.2|10/13/21|Dmitry Shibanov |MIT|N/A|
 |[ts-jest](https://www.npmjs.com/ts-jest)|v27.0.5|03/09/23|Ivan |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
